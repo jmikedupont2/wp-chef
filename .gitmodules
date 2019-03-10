@@ -48,4 +48,4 @@
 	url = https://github.com/inviqa/chef-php-extra
 [submodule "cookbook/wp-cli"]
 	path = cookbook/wp-cli
-	url = https://github.com/zippykid/chef-wp-cli.git
+	url = https://github.com/GannettDigital/chef-wp-cli.git
